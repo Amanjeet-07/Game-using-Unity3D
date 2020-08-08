@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 821ce7d3391dd1f4da1105a6916a9bd6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - torpedo: {fileID: 493195171340008956, guid: 3f60366e5950c8445bfeb4a7644c2651, type: 3}
+  - UIObject1: {instanceID: 0}
+  - UIObject2: {instanceID: 0}
+  - shooter: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
